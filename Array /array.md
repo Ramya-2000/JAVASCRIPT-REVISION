@@ -29,7 +29,7 @@ copyWithin(target, start, end)
 ## Entries
 * The entries() method returns a new Array Iterator object 
 * that contains the key/value pairs for each index in the array.
-* Syntax: entrie();
+* Syntax: entries();
 
 ## Every
 * The every() method tests whether all elements in the array pass the test implemented by the provided function. 
